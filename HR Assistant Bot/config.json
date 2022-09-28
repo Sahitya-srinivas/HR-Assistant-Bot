@@ -1,0 +1,17 @@
+{
+    "name": "HR Assistant Bot",
+    "envVariables": [
+        {
+            "key": "Hr_API",
+            "value": "https://61a4a1ee4c822c0017041d46.mockapi.io/hr_assistant",
+            "variableType": "env",
+            "hint": "",
+            "scope": "prePopulated",
+            "group": "",
+            "propagateValue": false,
+            "vNameSpace": [
+                "8aa16319-2a20-548c-8b2a-9e7faad74bf6"
+            ]
+        }
+    ]
+}
